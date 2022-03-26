@@ -28,6 +28,5 @@
 
 - 👀 Atualmente estou interessado em aprender mais sobre desenvolvimento de jogos
 - 🌱 Atualmente estou estudando HTML, CSS e Javascript. Possuo conhecimento básico na Godot Engine
-- 📫 Contate-me no email: mailto:contato.wendelloliveira@gmail.com
 
 
