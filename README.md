@@ -1,6 +1,6 @@
 ## Olá! Me chamo Wendell Oliveira
 
-<div align="center">
+<div>
   <a href="https://github.com/wendelloliiver">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendelloliiver&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelloliiver&layout=compact&langs_count=7&theme=github_dark"/>
@@ -27,6 +27,7 @@
 </div>
 
 - 👀 Atualmente estou interessado em aprender mais sobre desenvolvimento de jogos
-- 🌱 Atualmente estou estudando HTML, CSS e Javascript. Possuo conhecimento básico na Godot Engine
+- 🌱 Estou estudando HTML, CSS e Javascript. 
+- 🎮 Possuo conhecimento básico na Godot Engine
 
 
