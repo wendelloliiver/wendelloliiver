@@ -1,4 +1,4 @@
-## Olá! Me chamo Wendell Oliveira
+## Hello World! Me chamo Wendell Oliveira.
 
 <div>
   <a href="https://github.com/wendelloliiver">
@@ -22,12 +22,5 @@
  	<a href = "mailto:contato.wendelloliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendelloliiver/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
- 
+<!-- ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) --> 
 </div>
-
-- 👀 Atualmente estou interessado em aprender mais sobre desenvolvimento de jogos
-- 🌱 Estou estudando HTML, CSS e Javascript. 
-- 🎮 Possuo conhecimento básico na Godot Engine
-
-
