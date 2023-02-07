@@ -1,4 +1,5 @@
-## Hello World! Me chamo Wendell Oliveira.
+## 🚀 Sobre mim
+Eu sou desenvolvedor full-stack que está sempre em busca de novos desafios.
 
 <div>
   <a href="https://github.com/wendelloliiver">
